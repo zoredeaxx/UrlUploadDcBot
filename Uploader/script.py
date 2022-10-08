@@ -55,7 +55,7 @@ I am Powerful Url Uploader Bot. Multiple Source Support. To see /help more infor
 
 <b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/GreyMatter_Owner">@GreyMatter_Owner</a>
+<b>👲 Owner :</b> <a href="https://t.me/GreyMatter_Owner">@GreyMatter_Owner</a>
 
 """
 
