@@ -45,9 +45,9 @@ I am Powerful Url Uploader Bot. Multiple Source Support. To see /help more infor
 # give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Dc Bot
+<b>♻️ My Name</b> : Url Uploader Bot
 
-<b>🌀 Channel</b> : <a href="https://t.me/Groupdcbots">@Group Dc Bots</a>
+<b>🌀 Channel</b> : <a href="https://t.me/greymatter_bots">@GreyMatter's Bot</a>
 
 <b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
 
@@ -55,7 +55,7 @@ I am Powerful Url Uploader Bot. Multiple Source Support. To see /help more infor
 
 <b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/selfiebd">@selfiebd</a>
+<b>👲 Developer :</b> <a href="https://t.me/GreyMatter_Owner">@GreyMatter_Owner</a>
 
 """
 
